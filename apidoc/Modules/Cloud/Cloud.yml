@@ -73,7 +73,7 @@ description: |
     #### tiapp.xml Properties
 
     Studio will create a pair of API keys (Development and Production) for each Titanium
-    application depending on the user preference specified when creating the proejct. These keys
+    application depending on the user preference specified when creating the project. These keys
     will be stored in the `tiapp.xml` file.  One of the keys will be used during application
     builds depending on the build type (development or production).
 
